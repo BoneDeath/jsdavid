@@ -1,2 +1,2 @@
-# jsdavid
-Generate Image Background and Shadow Automatically for bengkelprintcare.com website
+# ThumbnailJS
+Generate Image Thumbnail Background and Shadow Automatically for bengkelprintcare.com website
